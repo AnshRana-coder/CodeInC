@@ -1,0 +1,1 @@
+//WAP to find maximum & minimum score in the Marks array. 
