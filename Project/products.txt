@@ -1,0 +1,52 @@
+101,Men's T-Shirt,15.99,100,Men
+102,Women's Jacket,49.99,50,Women
+103,Laptop,799.99,30,Tech
+104,Kids' Sneakers,29.99,200,Kids
+105,Smartphone,599.99,75,Tech
+106,Backpack,19.99,150,Men
+107,Wristwatch,89.99,60,Men
+108,Winter Coat,69.99,40,Women
+109,Gaming Console,299.99,20,Tech
+110,Children's Toy Set,24.99,300,Kids
+111,Building Blocks Set,15.49,500,Kids
+112,Remote Control Car,39.99,150,Kids
+113,Dollhouse,45.99,120,Kids
+114,Teddy Bear,12.99,400,Kids
+115,Puzzle Set,9.99,600,Kids
+116,Action Figure Set,19.99,250,Kids
+117,Board Game,10.99,350,Kids
+118,Tricycle,55.99,80,Kids
+119,Baby Walker,49.99,60,Kids
+120,Old Vintage Lamp,35.99,40,Old
+121,Classic Record Player,89.99,15,Old
+122,Retro Radio,29.99,30,Old
+123,Antique Clock,100.00,10,Old
+124,Wooden Desk,80.00,25,Old
+125,Leather Jacket (Vintage),69.99,20,Old
+126,Old Leather Shoes,40.99,50,Old
+127,Retro Camera,70.00,25,Old
+128,Antique Mirror,60.00,10,Old
+129,Classic Bookshelf,45.99,30,Old
+130,Old Wooden Chair,50.00,40,Old
+131,Men's Casual Shoes,39.99,150,Men
+132,Women's Boots,89.99,100,Women
+133,Smartwatch,199.99,60,Tech
+134,LED TV,349.99,20,Tech
+135,Electric Scooter,499.99,10,Tech
+136,Wireless Headphones,89.99,75,Tech
+137,Tablet,249.99,50,Tech
+138,Kids' Educational Toy,14.99,400,Kids
+139,Outdoor Swing Set,120.00,25,Kids
+140,Play Tent,29.99,80,Kids
+141,Water Gun Set,16.99,200,Kids
+142,Kids' Art Supplies,10.99,600,Kids
+143,Old Vinyl Records,20.00,100,Old
+144,Retro Bicycle,150.00,15,Old
+145,Antique Chest,150.00,5,Old
+146,Old Wooden Crate,25.00,28,Old
+147,Vintage Sunglasses,40.00,100,Old
+148,Smartphone Case,9.99,500,Tech
+149,Portable Speaker,39.99,60,Tech
+150,Power Bank,19.99,195,Tech
+151,Mobile phone,100.00,56,Tech
+152,apple,100.00,2,Food
